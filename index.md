@@ -1,5 +1,7 @@
-# Recettes
+---
+title: Index
+---
 
 {% for page in site.html_pages %}
-  - [{{ page.categorie }}]]({{ page.url | relative_url }})
+  - [{{ page.title }}]({{ page.url | relative_url }})
 {% endfor %}
