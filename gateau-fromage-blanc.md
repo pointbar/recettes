@@ -8,6 +8,7 @@ categorie: gateau
 niveau: débutant
 date: 12/05/2017
 nombre: 8 personnes
+layout: page
 ---
 
 ## Ingrédients
