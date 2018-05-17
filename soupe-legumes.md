@@ -8,6 +8,8 @@ categorie: soupe
 niveau: débutant
 date: 12/05/2017
 nombre: 12 personnes
+temps-cuisson: sans
+temps-preparation: 30 min
 ---
 
 ## Préparation de la soupe :
