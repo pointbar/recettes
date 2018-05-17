@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: Une salade de mâche et de légumes de printemps
-image_url: https://raw.githubusercontent.com/akakeronos/recette-gourmandignes/master/images/matcha_azuki-4-sur-1.jpg
+image_url: https://raw.githubusercontent.com/akakeronos/recette-gourmandignes/master/images/salade2.jpg
 title: Recette de la salade de crudités
 licence: CC-by-sa
 categorie: salade
