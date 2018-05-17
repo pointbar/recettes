@@ -18,12 +18,13 @@ remote_theme: pointbar/minima
 
 Un type de layout "pages" a été défini pour permettre l'affichage des recettes
 
-À cause de cela, pour servir le projet en local il faut installer une dépendance *gem github-pages* dans le *Gemfile*
+À cause de cela, pour servir le projet en local il faut installer une dépendance *gem github-pages*
 
 L'installer :
 
 ```bash
-bundle install
+gem install bundler
+gem install github-pages
 ```
 
 Pour jouer en local, j'utilise *bundle exec* pour contourner les conflits de dépendance :
