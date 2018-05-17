@@ -13,6 +13,8 @@ temps-preparation: 30 min
 layout: page
 ---
 
+# Gateau simple
+
 ## Ingrédients
 
 * 200g pot de fromage blanc
