@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: Une tarte d'hiver simple à réaliser avec la fabrication de la pâte maison
-image_url: https://raw.githubusercontent.com/akakeronos/recette-gourmandignes/master/images/matcha_azuki-4-sur-1.jpg
+image_url: https://github.com/akakeronos/recette-gourmandignes/raw/master/images/tarte-crue-pommes.jpg
 title: Recette de la tarte aux légumes
 licence: CC-by-sa
 categorie: tarte

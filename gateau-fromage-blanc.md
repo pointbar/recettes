@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: Un gâteau simple, sain et rapide à réaliser
-image_url: https://raw.githubusercontent.com/akakeronos/recette-gourmandignes/master/images/matcha_azuki-4-sur-1.jpg
+image_url: https://github.com/akakeronos/recette-gourmandignes/raw/master/images/tiramisu-revisite.jpg
 title: Recette du gâteau
 licence: CC-by-sa
 categorie: gateau
