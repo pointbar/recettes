@@ -2,6 +2,8 @@
 
 Afficher des recettes de cuisine en utilisant des contenus en markdown et un générateur de site jekyll pour la mise en page
 
+{{ site.description }}
+
 Permet d'afficher les recettes et de naviguer par auteur ou catégories
 
 ## Liste d'idées
