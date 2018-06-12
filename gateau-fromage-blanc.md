@@ -13,7 +13,7 @@ temps-preparation: 30 min
 layout: page
 ---
 
-# Gateau simple
+# Gateau simple pas si simple
 
 ## Ingrédients
 
